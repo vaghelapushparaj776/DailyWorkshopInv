@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="31"
+   height="31"
+   viewBox="0 0 31 31"
+   xml:space="preserve"
+   fill="currentColor"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+   id="defs4" />
+  <g
+   id="Layer_x0020_1">
+    <g
+   id="_229987144">
+      <path
+   id="polygon2"
+   style="fill:#d9241c"
+   d="M 5.5,4.27922 V 26.1976 L 13.0429,31 V 9.43135 Z" />
+      <path
+   id="polygon3"
+   d="m 17.6934,0 v 14.6699 l 7.6308,-4.4531 V 5.06445 Z M 25.5,16.0684 18.2188,20.8711 v 0.873 L 25.5,26.5469 Z" />
+    </g>
+  </g>
+</svg>
